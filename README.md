@@ -3,7 +3,7 @@
 - 🎓 I am currently a third-year student at the **University of British Columbia (UBC)**, studying **Computer Science**, **Mathematics**, and **Data Science**.
 - 💻 I am passionate about **Software Development**, **Full-Stack Development**, and **Data Analysis**.
 - 🌱 My technical expertise includes **Data Structures and Algorithms**, **Object-Oriented Design**, and **Machine Learning/Deep Learning**.
-- 🔧 I am skilled in programming languages such as **Java**, **C++**, **Python**, **R**, **SQL**, **C**, and **DrRacket**, and I have experience with tools and frameworks like **PyTorch**.
+- 🔧 I am skilled in programming languages such as **Java**, **C++**, **Python**, **Typescript**, **R**, **SQL**, and **DrRacket**, and I have experience with tools and frameworks like **Spring Boot**, **React**, **PyTorch**.
 
 ---
 
