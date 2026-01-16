@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Oscar!</h2>
+## Hi 👋! I am Oscar!
 
 - 🎓 I am currently a third-year student at the **University of British Columbia (UBC)**, studying **Computer Science**, **Data Science** and **Mathematics**.
 - 💻 I am passionate about **Software Development**, **Back-End Development** and **Full-Stack Development**.
@@ -6,16 +6,6 @@
 - 🔧 I am skilled in programming languages such as **Java**, **C++**, **Python**, **Typescript**, **R**, **SQL**, and **DrRacket**, and I have experience with tools and frameworks like **Spring Boot**, **React**, **PyTorch**.
 
 ---
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oscarcheng0312&hide_title=false&hide_rank=true&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oscarcheng0312&locale=en&hide=jupyter%20notebook,javascript&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-</div>
-
 
 
 
@@ -59,6 +49,13 @@
 </div>
 
 ---
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscarcheng0312&theme=dracula&hide_border=true" />
+
+---
+
 
 <br clear="both">
 
