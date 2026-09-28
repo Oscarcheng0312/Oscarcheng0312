@@ -1,6 +1,6 @@
 ## Hi 👋! I am Oscar!
 
-- 🎓 I am currently a third-year student at the **University of British Columbia (UBC)**, studying **Computer Science**, **Data Science** and **Mathematics**.
+- 🎓 I am currently a forth-year student at the **University of British Columbia (UBC)**, studying **Computer Science**, **Data Science**.
 - 💻 I am passionate about **Software Development**, **Back-End Development** and **Full-Stack Development**.
 - 🌱 My technical expertise includes **Data Structures and Algorithms**, **Object-Oriented Design**, and **Machine Learning/Deep Learning**.
 - 🔧 I am skilled in programming languages such as **Java**, **C++**, **Python**, **Typescript**, **R**, **SQL**, and **DrRacket**, and I have experience with tools and frameworks like **Spring Boot**, **React**, **PyTorch**.
